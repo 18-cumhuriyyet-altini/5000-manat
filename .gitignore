@@ -1,0 +1,28 @@
+# ===== PROTEUS =====
+*.pdsbak
+*.DBK
+*.hex
+*.map
+*.cof
+*.log
+*.lck
+*.PWI
+CACHE/
+
+# ===== ARDUINO / KOD =====
+*.elf
+*.bin
+build/
+*.o
+
+# ===== SİSTEM =====
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.temp
+
+# ===== IDE =====
+.vscode/
+*.suo
+.idea/
