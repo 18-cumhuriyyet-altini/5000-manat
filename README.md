@@ -1,3 +1,2 @@
 
-<img width="384" height="597" alt="image" src="https://github.com/user-attachments/assets/6b91867b-25ff-48db-83ba-fbc4e89714e4" />
-https://electronicstree.com/new-pir-sensor-proteus-library/#google_vignette
+https://docs.google.com/spreadsheets/d/1EUTqWsnQ9pHzlX4JfHACqMd-E-McYc_XnucPWnIzOE0/edit?pli=1&gid=1004730438#gid=1004730438
