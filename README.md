@@ -1,4 +1,2 @@
-MPU6050
-bmp280
-lm2596
-<img width="1008" height="593" alt="image" src="https://github.com/user-attachments/assets/f9a28331-8321-4163-ad7f-efa2c58e4465" />
+
+<img width="384" height="597" alt="image" src="https://github.com/user-attachments/assets/6b91867b-25ff-48db-83ba-fbc4e89714e4" />
